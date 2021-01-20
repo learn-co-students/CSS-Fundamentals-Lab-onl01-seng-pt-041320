@@ -3,3 +3,19 @@ body {
   height: 100%;
   margin: 0;
 }
+
+body
+{
+  text-align: center;
+}
+
+a
+{
+  background-color: lightgray;
+  padding: 0px 10px
+}
+
+figcaption
+{
+  font-size: 8;
+}
